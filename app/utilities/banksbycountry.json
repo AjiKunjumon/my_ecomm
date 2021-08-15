@@ -1,0 +1,38 @@
+{
+  "country_count": 2,
+  "results": [
+    {
+      "name": "Kuwait",
+      "banks": [
+                "Apex bank of Kuwait",
+                "The Industrial Bank of Kuwait",
+                "Al Ahli Bank of Kuwait (ABK)",
+                "Gulf Bank",
+                "National Bank of Kuwait (NBK)",
+                "The Bank of Kuwait & the Middle East (BKME)",
+                "Bank of Bahrain and Kuwait",
+                "Burgan Bank",
+                "Citigroup Kuwait",
+                "Commercial Bank of Kuwait",
+                "Jordan Kuwait Bank",
+                "Kuwait Finance House",
+                "Boubyan Bank"
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "banks": [
+                "The National Commercial Bank",
+                "Saudi Investment Bank",
+                "Alinma Bank",
+                "Riyad Bank",
+                "Samba Financial Group",
+                "Alawwal Bank",
+                "Al Rajhi Bank",
+                "Arab National Bank",
+                "Bank AlBilad",
+                "Bank AlJazira"
+      ]
+    }
+  ]
+}

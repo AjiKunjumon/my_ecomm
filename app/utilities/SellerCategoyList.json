@@ -1,0 +1,54 @@
+[
+    {
+        "id": 8,
+        "name": "Baby Care",
+        "sellers": []
+    },
+    {
+        "id": 2,
+        "name": "Beauty & Fragrance",
+        "sellers": []
+    },
+    {
+        "id": 3,
+        "name": "Electronics & Mobiles",
+        "sellers": []
+    },
+    {
+        "id": 1,
+        "name": "Fashion",
+        "sellers": []
+    },
+    {
+        "id": 5,
+        "name": "Home & Kitchen Appliances",
+        "sellers": [
+            {
+                "id": 1,
+                "name": "Xcite Salmiya",
+                "image": "https://becondevs.s3.amazonaws.com/media/store/images/X-cite2x.png"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Parent",
+        "sellers": []
+    },
+    {
+        "id": 7,
+        "name": "Sports",
+        "sellers": []
+    },
+    {
+        "id": 6,
+        "name": "Toys & Games",
+        "sellers": [
+            {
+                "id": 2,
+                "name": "Al-nasser",
+                "image": "https://becondevs.s3.amazonaws.com/media/store/images/Al-nasser2x.png"
+            }
+        ]
+    }
+]

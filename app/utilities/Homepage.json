@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+        "id": 1,
+        "no_of_rows": 1,
+        "type": "menu_card_single",
+        "can_see_all": true,
+        "ordering_id": 1,
+        "name": "Categories",
+        "item_values_count": 2,
+        "item_values": [
+          {
+            "id": 1,
+            "name": "category_1_name",
+            "image": "category_1_image_url"
+          },
+          {
+            "id": 2,
+            "name": "category_2_name",
+            "image": "category_2_image_url"
+          }
+        ]
+    },
+    {
+        "id": 2,
+        "no_of_rows": 1,
+        "type": "banner_card_small",
+        "can_see_all": true,
+        "ordering_id": 2,
+        "name": "Featured Seller",
+        "item_values_count": 2,
+        "item_values": [
+          {
+            "id": 1,
+            "name": "featured_seller_1",
+            "image": "featured_seller_1_image_url"
+          },
+          {
+            "id": 2,
+            "name": "featured_seller_2",
+            "image": "featured_seller_2_image_url"
+          }
+        ]
+    },
+    {
+        "id": 3,
+        "no_of_rows": 1,
+        "type": "carousal_card",
+        "can_see_all": true,
+        "ordering_id": 3,
+        "name": "New Arrivals",
+        "item_values_count": 2,
+        "item_values": [
+          {
+            "id": 1,
+            "name": "new_arrivals_1",
+            "image": "new_arrivals_1_image_url",
+            "price": "new_arrivals_1_price",
+            "brand_name": "new_arrivals_1_brand_name",
+            "brand_image": "new_arrivals_1_brand_image_url"
+          },
+          {
+            "id": 2,
+            "name": "new_arrivals_2",
+            "image": "new_arrivals_2_image_url",
+            "price": "new_arrivals_2_price",
+            "brand_name": "new_arrivals_2_brand_name",
+            "brand_image": "new_arrivals_2_brand_image_url"
+          }
+        ]
+    },
+    {
+        "id": 4,
+        "no_of_rows": 1,
+        "type": "menu_card_offer",
+        "can_see_all": true,
+        "ordering_id": 4,
+        "name": "Offers",
+        "item_values_count": 2,
+        "item_values": [
+          {
+            "id": 1,
+            "name": "offers_1",
+            "image": "offers_1_image_url"
+          },
+          {
+            "id": 2,
+            "name": "offers_2",
+            "image": "offers_2_image_url"
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "no_of_rows": 1,
+        "type": "banner_card_large",
+        "can_see_all": true,
+        "ordering_id": 5,
+        "name": "Banner",
+        "item_values_count": 2,
+        "item_values": [
+          {
+            "id": 1,
+            "name": "banner_1",
+            "image": "banner_1_image_url"
+          },
+          {
+            "id": 2,
+            "name": "banner_2",
+            "image": "banner_2_image_url"
+
+          }
+        ]
+    }
+  ]
+}
