@@ -49,4 +49,3 @@ virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 Werkzeug==0.16.0
 wsgi-request-logger==0.4.6
-zappa==0.48.2

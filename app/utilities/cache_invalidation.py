@@ -3,7 +3,6 @@ import time
 
 # Create CloudFront client
 from django.conf import settings
-from zappa.async import task
 
 cf = boto3.client('cloudfront')
 
@@ -15,7 +14,6 @@ def get_distribution_id():
 
 
 # Create CloudFront invalidation
-@task
 def create_invalidation():
     print("cache_invalidation")
     if settings.SITE_CODE == 2 or settings.SITE_CODE == 3:
